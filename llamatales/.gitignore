@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+*/prompt_*.npz
+*/story_dataset*.*
