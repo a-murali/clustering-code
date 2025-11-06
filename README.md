@@ -1,2 +1,2 @@
 # clustering-code
-Initial clustering code for Bird Project
+Initial clustering code for AutoRegressive model interpretability
