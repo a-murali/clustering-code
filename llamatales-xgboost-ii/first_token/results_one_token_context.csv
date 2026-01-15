@@ -1,0 +1,10 @@
+Layer,Context_Level,Train_Accuracy,Test_Accuracy,Prompt_1_Train_Accuracy,Prompt_1_Test_Accuracy,Prompt_2_Train_Accuracy,Prompt_2_Test_Accuracy,Prompt_3_Train_Accuracy,Prompt_3_Test_Accuracy,Prompt_4_Train_Accuracy,Prompt_4_Test_Accuracy,Prompt_5_Train_Accuracy,Prompt_5_Test_Accuracy,Prompt_6_Train_Accuracy,Prompt_6_Test_Accuracy,Prompt_7_Train_Accuracy,Prompt_7_Test_Accuracy,Prompt_8_Train_Accuracy,Prompt_8_Test_Accuracy,Prompt_9_Train_Accuracy,Prompt_9_Test_Accuracy,Prompt_10_Train_Accuracy,Prompt_10_Test_Accuracy
+0,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+1,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+2,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+3,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+4,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+5,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+6,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+7,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+8,1,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
