@@ -1,0 +1,5 @@
+Layer,Context_Level,Train_Accuracy,Test_Accuracy,Prompt_1_Train_Accuracy,Prompt_1_Test_Accuracy,Prompt_2_Train_Accuracy,Prompt_2_Test_Accuracy,Prompt_3_Train_Accuracy,Prompt_3_Test_Accuracy,Prompt_4_Train_Accuracy,Prompt_4_Test_Accuracy,Prompt_5_Train_Accuracy,Prompt_5_Test_Accuracy,Prompt_6_Train_Accuracy,Prompt_6_Test_Accuracy,Prompt_7_Train_Accuracy,Prompt_7_Test_Accuracy,Prompt_8_Train_Accuracy,Prompt_8_Test_Accuracy,Prompt_9_Train_Accuracy,Prompt_9_Test_Accuracy,Prompt_10_Train_Accuracy,Prompt_10_Test_Accuracy
+1,25,1.0,0.4465,1.0,0.47,1.0,0.36,1.0,0.515,1.0,0.39,1.0,0.5,1.0,0.42,1.0,0.395,1.0,0.465,1.0,0.37,1.0,0.58
+1,50,0.9872484060507564,0.3165,0.98375,0.33,0.99,0.29,0.9875,0.36,0.98125,0.215,0.99,0.4,0.9775,0.3,0.986232790988736,0.3,0.99375,0.3,0.99,0.31,0.9925,0.36
+1,75,0.956994624328041,0.31,0.94875,0.345,0.94875,0.235,0.9525,0.305,0.94375,0.285,0.97625,0.295,0.96375,0.33,0.9599499374217773,0.385,0.96375,0.245,0.94,0.295,0.9725,0.38
+1,100,1.0,0.293,1.0,0.335,1.0,0.225,1.0,0.315,1.0,0.31,1.0,0.3,1.0,0.29,1.0,0.215,1.0,0.285,1.0,0.31,1.0,0.345
